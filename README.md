@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Sairaj Bhosle</h1>
 <h3 align="center">engineering student from India</h3>
-(https://github.com/Sairajbhosle/Sairaj-Bhosle/blob/main/Heyy%20its%20Sairaj%20Bhosle.jpg)
 
-![I am GitHub Readme Generator's creator](https://github.com/Sairajbhosle/Sairhttps://www.canva.com/design/DAFF6cMzoRk/s8CxdUJanua39399IrUJJg/edit?utm_content=DAFF6cMzoRk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonaj-Bhosle/blob/main/Heyy%20its%20Sairaj%20Bhosle.png)
+
+(https://github.com/Sairajbhosle/Sairaj-Bhosle/blob/main/Heyy%20its%20Sairaj%20Bhosle.png)
 
 
 
