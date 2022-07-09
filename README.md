@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairajbhosle&label=Profile%20views&color=0e75b6&style=flat" alt="sairajbhosle" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sairajbhosle" alt="sairajbhosle" /></a> </p>
-(https://github.com/Sairajbhosle/Sairaj-Bhosle/blob/main/Heyy%20its%20Sairaj%20Bhosle.png)
+
 - 🔭 I’m currently working on **web developement**
 
 - 🌱 I’m currently learning **html,css,js**
